@@ -1,3 +1,12 @@
+## 3.26更新
+须弥版本活动的免费四星是珐露珊，不是坎蒂丝
+
+须弥版本活动的有关截图
+
+![image](https://user-images.githubusercontent.com/13842432/227765157-c1883b0f-84a6-4fd0-90f2-fe55a5b0eed7.png)
+![image](https://user-images.githubusercontent.com/13842432/227765160-200e3d41-a1d9-48b2-9d4b-fdbaee58ebde.png)
+![image](https://user-images.githubusercontent.com/13842432/227765333-e237435f-27eb-4c2e-9736-d5a13d0e6e3b.png)
+
 ## 3.24更新
 3月31日前瞻
 
