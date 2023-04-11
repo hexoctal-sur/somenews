@@ -1,3 +1,29 @@
+## 4.17更新
+
+莱依拉邀约任务截图
+
+![image](https://user-images.githubusercontent.com/13842432/231150607-7df3ec24-ad8b-4f49-9bb5-a7d9187152fc.png)
+![image](https://user-images.githubusercontent.com/13842432/231150621-1aa8c35c-e759-48b7-82fb-3a875b4eac1c.png)
+![image](https://user-images.githubusercontent.com/13842432/231150633-b29b99e7-1001-4113-9421-c8cf9a20421a.png)
+![image](https://user-images.githubusercontent.com/13842432/231150646-fb7412a9-4be7-4aa0-afd1-d554d5b27833.png)
+![image](https://user-images.githubusercontent.com/13842432/231150659-42e3e359-bde4-4dde-a895-888593ce2b2d.png)
+![image](https://user-images.githubusercontent.com/13842432/231150674-9d9492d4-9cdb-4f38-80c8-bd07bd54748f.png)
+
+
+## 4.10更新
+3.7版本卡池据传如图，上半八重+艾尔海森，下半万叶+宵宫（第一次猜测，肯定会变）
+![image](https://user-images.githubusercontent.com/13842432/231148963-607f4979-4576-4138-879f-403c3f66e181.png)
+
+3.7可能会有卡维的邀约任务，可能会有宵宫的传说任务第二章
+
+丑角将会在接下来的版本中进入卡池成为可操作角色，博士不会进入卡池（不保真）
+
+纳塔与玛雅文明有一定相似性，剧情与轮回有关（不保真）
+
+绮良良为四星草系单手剑，将在3.7实装
+
+毛子内鬼频道再次透露5月24日为3.7前瞻，7月5日为3.8前瞻，8月30日为4.0前瞻，3.8之后没有新的3.0小版本
+
 ## 3.26更新
 须弥版本活动的免费四星是珐露珊，不是坎蒂丝
 
