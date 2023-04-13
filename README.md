@@ -1,3 +1,23 @@
+## 4.13更新
+绮良良的突破素材、抽卡界面和好感度名片
+![image](https://user-images.githubusercontent.com/13842432/231752458-d431ff9b-fec1-4b09-a551-9ab4e22000d3.png)
+![image](https://user-images.githubusercontent.com/13842432/231752514-19effe2d-326d-4a27-810e-0b2a7bd8f0f4.png)
+![image](https://user-images.githubusercontent.com/13842432/231752528-b16e6417-f903-483c-93d2-557cbac908ab.png)
+
+3.7的三个活动，看截图应该分别是神工天巧、溢神的论证和风来人剑斗绮谭
+![image](https://user-images.githubusercontent.com/13842432/231752592-4df1c468-f955-422e-b448-1b89b2a16fec.png)
+
+七圣召唤新卡牌
+![image](https://user-images.githubusercontent.com/13842432/231753650-fb187af0-473c-4bdc-ade9-6ae39f12847f.png)
+
+一把四星弓，90级基础攻击565，固定效果是攻击力27.6%，被动与元素精通有关，谷歌翻译原文是“元素精通提高 40。 持续 6 秒 蓄力攻击击中敌人后。 该效果最多叠加 2 次，每 0.5 秒发生一次。”，推测真正意思是“蓄力攻击击中敌人后元素精通提高40，持续6秒，最多叠加两次，最多每0.5秒触发一次”。
+![image](https://user-images.githubusercontent.com/13842432/231754078-b3e01131-87bd-4701-b30b-5496f84b1bcd.png)
+
+七圣召唤将添加Rougelike模式（俄语机翻，推测），此模式涉及一种名片背景，可能是奖励
+![image](https://user-images.githubusercontent.com/13842432/231755379-793f6d1c-13e6-47a9-93b8-eb3e802725cb.png)
+![image](https://user-images.githubusercontent.com/13842432/231755464-e9b61762-0af0-4d70-aead-acd624b7dfaf.png)
+
+
 ## 4.11更新
 
 莱依拉邀约任务截图
